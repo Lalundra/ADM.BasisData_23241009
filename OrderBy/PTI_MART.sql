@@ -1,5 +1,5 @@
--- Nama: Andrian Maulana
--- Nim: 23241020
+-- Nama: Lalu Andra Khairil Ramadhan
+-- Nim: 23241009
 -- Kelas: A/4
 -- Modul: Modul 1 - SELECT Statement, Prefic dan Alias
 
